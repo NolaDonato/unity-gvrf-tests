@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: e73261b7fdfe32b48aaaa019852d725f
+timeCreated: 1470855547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BASEBOARD
+    100002: BaseSculpt_Male
+    100004: beam
+    100006: beam (2)
+    100008: DirectionalLight1
+    100010: DirectionalLight2
+    100012: floor
+    100014: glass
+    100016: glass (2)
+    100018: glass (3)
+    100020: glass (4)
+    100022: Grass Clumps 01
+    100024: holderuppers
+    100026: holderuppers (2)
+    100028: holderuppers (3)
+    100030: lamp
+    100032: lamp (2)
+    100034: lamp (3)
+    100036: lamp (4)
+    100038: lamp (5)
+    100040: lamp (6)
+    100042: lowerpanel
+    100044: lowerpanel (2)
+    100046: metal_wall
+    100048: pipe
+    100050: pipe (2)
+    100052: pipe (3)
+    100054: pipe (4)
+    100056: pipe (5)
+    100058: pipe (6)
+    100060: planter
+    100062: planter (2)
+    100064: Point Light1
+    100066: Point Light2
+    100068: Point Light3
+    100070: Point Light4
+    100072: Point Light5
+    100074: Point Light6
+    100076: shelf
+    100078: shelf (2)
+    100080: shelf (3)
+    100082: Sphere
+    100084: Sphere (2)
+    100086: Sphere (3)
+    100088: SpotLight1
+    100090: SpotLight2
+    100092: SpotLight3
+    100094: //RootNode
+    100096: Texture Group
+    100098: Texture Group (2)
+    100100: ui_2d3d (2)
+    100102: ui_colorpicker
+    100104: ui_edit (2)
+    100106: ui_editmenu (2)
+    100108: ui_play
+    100110: upperbeam
+    100112: upperbeam (2)
+    100114: upperbeam (3)
+    100116: wall
+    100118: wall (2)
+    100120: window_
+    100122: window_ (2)
+    100124: window_ (3)
+    100126: window_ (4)
+    100128: windowsill
+    100130: windowwall
+    100132: windowwall (2)
+    400000: BASEBOARD
+    400002: BaseSculpt_Male
+    400004: beam
+    400006: beam (2)
+    400008: DirectionalLight1
+    400010: DirectionalLight2
+    400012: floor
+    400014: glass
+    400016: glass (2)
+    400018: glass (3)
+    400020: glass (4)
+    400022: Grass Clumps 01
+    400024: holderuppers
+    400026: holderuppers (2)
+    400028: holderuppers (3)
+    400030: lamp
+    400032: lamp (2)
+    400034: lamp (3)
+    400036: lamp (4)
+    400038: lamp (5)
+    400040: lamp (6)
+    400042: lowerpanel
+    400044: lowerpanel (2)
+    400046: metal_wall
+    400048: pipe
+    400050: pipe (2)
+    400052: pipe (3)
+    400054: pipe (4)
+    400056: pipe (5)
+    400058: pipe (6)
+    400060: planter
+    400062: planter (2)
+    400064: Point Light1
+    400066: Point Light2
+    400068: Point Light3
+    400070: Point Light4
+    400072: Point Light5
+    400074: Point Light6
+    400076: shelf
+    400078: shelf (2)
+    400080: shelf (3)
+    400082: Sphere
+    400084: Sphere (2)
+    400086: Sphere (3)
+    400088: SpotLight1
+    400090: SpotLight2
+    400092: SpotLight3
+    400094: //RootNode
+    400096: Texture Group
+    400098: Texture Group (2)
+    400100: ui_2d3d (2)
+    400102: ui_colorpicker
+    400104: ui_edit (2)
+    400106: ui_editmenu (2)
+    400108: ui_play
+    400110: upperbeam
+    400112: upperbeam (2)
+    400114: upperbeam (3)
+    400116: wall
+    400118: wall (2)
+    400120: window_
+    400122: window_ (2)
+    400124: window_ (3)
+    400126: window_ (4)
+    400128: windowsill
+    400130: windowwall
+    400132: windowwall (2)
+    2300000: BASEBOARD
+    2300002: BaseSculpt_Male
+    2300004: beam
+    2300006: beam (2)
+    2300008: floor
+    2300010: glass
+    2300012: glass (2)
+    2300014: glass (3)
+    2300016: glass (4)
+    2300018: Grass Clumps 01
+    2300020: holderuppers
+    2300022: holderuppers (2)
+    2300024: holderuppers (3)
+    2300026: lamp
+    2300028: lamp (2)
+    2300030: lamp (3)
+    2300032: lamp (4)
+    2300034: lamp (5)
+    2300036: lamp (6)
+    2300038: lowerpanel
+    2300040: lowerpanel (2)
+    2300042: metal_wall
+    2300044: pipe
+    2300046: pipe (2)
+    2300048: pipe (3)
+    2300050: pipe (4)
+    2300052: pipe (5)
+    2300054: pipe (6)
+    2300056: planter
+    2300058: planter (2)
+    2300060: shelf
+    2300062: shelf (2)
+    2300064: shelf (3)
+    2300066: Sphere
+    2300068: Sphere (2)
+    2300070: Sphere (3)
+    2300072: ui_2d3d (2)
+    2300074: ui_colorpicker
+    2300076: ui_edit (2)
+    2300078: ui_editmenu (2)
+    2300080: ui_play
+    2300082: upperbeam
+    2300084: upperbeam (2)
+    2300086: upperbeam (3)
+    2300088: wall
+    2300090: wall (2)
+    2300092: window_
+    2300094: window_ (2)
+    2300096: window_ (3)
+    2300098: window_ (4)
+    2300100: windowsill
+    2300102: windowwall (2)
+    3300000: BASEBOARD
+    3300002: BaseSculpt_Male
+    3300004: beam
+    3300006: beam (2)
+    3300008: floor
+    3300010: glass
+    3300012: glass (2)
+    3300014: glass (3)
+    3300016: glass (4)
+    3300018: Grass Clumps 01
+    3300020: holderuppers
+    3300022: holderuppers (2)
+    3300024: holderuppers (3)
+    3300026: lamp
+    3300028: lamp (2)
+    3300030: lamp (3)
+    3300032: lamp (4)
+    3300034: lamp (5)
+    3300036: lamp (6)
+    3300038: lowerpanel
+    3300040: lowerpanel (2)
+    3300042: metal_wall
+    3300044: pipe
+    3300046: pipe (2)
+    3300048: pipe (3)
+    3300050: pipe (4)
+    3300052: pipe (5)
+    3300054: pipe (6)
+    3300056: planter
+    3300058: planter (2)
+    3300060: shelf
+    3300062: shelf (2)
+    3300064: shelf (3)
+    3300066: Sphere
+    3300068: Sphere (2)
+    3300070: Sphere (3)
+    3300072: ui_2d3d (2)
+    3300074: ui_colorpicker
+    3300076: ui_edit (2)
+    3300078: ui_editmenu (2)
+    3300080: ui_play
+    3300082: upperbeam
+    3300084: upperbeam (2)
+    3300086: upperbeam (3)
+    3300088: wall
+    3300090: wall (2)
+    3300092: window_
+    3300094: window_ (2)
+    3300096: window_ (3)
+    3300098: window_ (4)
+    3300100: windowsill
+    3300102: windowwall (2)
+    4300000: metal_wall
+    4300002: floor
+    4300004: BaseSculpt_Male
+    4300006: shelf
+    4300008: planter
+    4300010: wall (2)
+    4300012: wall
+    4300014: window_ (4)
+    4300016: window_ (3)
+    4300018: window_ (2)
+    4300020: window_
+    4300022: windowwall (2)
+    4300024: BASEBOARD
+    4300026: glass
+    4300028: glass (4)
+    4300030: glass (3)
+    4300032: glass (2)
+    4300034: pipe (4)
+    4300036: pipe (5)
+    4300038: pipe (6)
+    4300040: shelf (2)
+    4300042: shelf (3)
+    4300044: pipe
+    4300046: pipe (3)
+    4300048: planter (2)
+    4300050: Grass Clumps 01
+    4300052: pipe (2)
+    4300054: lowerpanel
+    4300056: lowerpanel (2)
+    4300058: windowsill
+    4300060: lamp (4)
+    4300062: beam (2)
+    4300064: lamp
+    4300066: lamp (2)
+    4300068: lamp (3)
+    4300070: lamp (5)
+    4300072: beam
+    4300074: lamp (6)
+    4300076: holderuppers (2)
+    4300078: upperbeam
+    4300080: upperbeam (2)
+    4300082: upperbeam (3)
+    4300084: Sphere
+    4300086: holderuppers (3)
+    4300088: holderuppers
+    4300090: Sphere (2)
+    4300092: Sphere (3)
+    4300094: ui_play
+    4300096: ui_editmenu (2)
+    4300098: ui_2d3d (2)
+    4300100: ui_colorpicker
+    4300102: ui_edit (2)
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
